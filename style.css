@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Space Grotesk", sans-serif;
+}
+
+.logo{
+    width: 40%;
+    display: flex; 
+}
+
+
+.logo1 {
+width: 2rem;
+height: 1.8rem;
+padding: 0 0.3rem 0 0;
+margin-left: 5rem;
+}
+
+.logo2 {
+    width: 10rem;
+    height: 1.5rem;
+    margin-top: 0.2rem;
+    }
+
+.navbar-nav li{
+    margin-right: 2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text{
+    padding: 2rem ;
+
+
+}
+.text h1{
+    line-height: 4rem;
+        
+}
+
+.text p{
+    line-height: 2rem;
+margin-right: 2rem;
+font-size: 20px;
+}
+
+
+.pic img{
+margin-top: 4rem;
+
+
+}
+
+#bookbtn{
+height: 3rem;
+border-radius: 10px;
+
+}
+
+.companylogo {
+margin-left: 3rem;
+}
+
+.companylogo li {
+margin: 0rem 0rem 0 7rem;
+padding: 0rem 1rem 0 0;
+justify-content:center ;
+list-style-type: none;
+
+
+}
+
+
+.boxone{
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    width: max-content;
+    height: max-content;
+    margin-right: 10rem;
+    margin-left: 4rem;
+    border-radius: 0.2rem;
+    font-weight: 700;
+
+    
+    }
+    
+    .cardone{
+        width: 20rem;
+        height: 12rem;
+        margin-top: 4rem;
+        margin-left: 40rem;
+        padding-left: 2rem;
+        border: 2px solid black;
+        box-shadow:inset sandybrown;
+        border-radius: 35px;
+        background-color: #F3F3F3;
+            
+    }
+    
+    h5{
+        margin-left: -2rem;
+        background-color: #B9FF66;
+     
+    }
+    .card-body img{
+        width: 2rem;
+        height: 2rem;
+        margin-left: -2rem;
+        padding-top: ;
+
+    }
+
+    .img-fluid{
+        padding-top: 3rem;
+        padding-right: 2rem;
+        size: 20rem;
+
+
+
+    }
+    .cardtwo{
+        width: 20rem;
+        height: 12rem;
+        margin-top: 4rem;
+        margin-left: 3rem;
+        padding-left: 2rem;
+        border: 2px solid black;
+        box-shadow:inset sandybrown;
+        border-radius: 35px;
+        background-color: #B9FF66;
+    }
+
+
+    #pay{
+        margin-left: -2rem;
+        background-color: #ffffff;
+     
+    }
+
+
+    .boxthree{
+        border: 2px solid greenyellow;
+        background-color: greenyellow;
+        width: max-content;
+        height: max-content;
+        margin-right: 10rem;
+        margin-left: 4rem;
+        border-radius: 0.2rem;
+        font-weight: 700;
+    }
+
+
+    
+    .cardthree{
+        height: 12rem;
+        margin-top: 4rem;
+        margin-left: 3rem;
+        padding-left: 2rem;
+        border: 1px solid black;
+        box-shadow:inset sandybrown;
+        border-radius: 35px;
+        background-color: #B9FF66;
+    }
+
+    .descriptions{
+        padding-top: 0.5rem;
+        margin-left: 1rem;
+
+
+
+    }
+
+
+    .cardfour{
+        height: 12rem;
+        margin-top: 4rem;
+        margin-left: 3rem;
+        padding-left: 2rem;
+        border: 1px solid black;
+        border-radius: 35px;
+        background-color: #d3e0ecbe;
+
